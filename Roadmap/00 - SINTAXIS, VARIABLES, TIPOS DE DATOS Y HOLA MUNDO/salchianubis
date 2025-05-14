@@ -1,0 +1,38 @@
+# https://www.python.org
+
+# Comentario en una linea 
+
+"""
+Esto tambien es
+un comentario 
+en una linea 
+"""
+
+´´´
+Esto tambien es
+un comentario
+en una linea 
+´´´ 
+my_variable = "Mi variable"
+my_variable = "Nuevo Valor de mi variable"
+
+MY_CONSTANT = "Mi constante" # por convencion
+
+my_int = 1
+my_float = 1.5 
+my_bool = True
+my_bool = False
+my_string = "Mi cadena de texto"
+my_other_string = "Mi otra cadena de texto"
+
+print("!hola, Python¡)
+
+# primera ves que programo ,tuve que ver tu video para poder hacerlo T.T
+"""
+Pero estuvo 
+bien 
+explicado 
+gracias por la paciencia 
+"""
+print("!hola, Python¡)
+
